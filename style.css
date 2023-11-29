@@ -1,0 +1,16 @@
+.note
+{
+  text-align: center;
+  color: blue;
+  font-style: italic;
+}
+
+*{
+    background-color: rgb(243, 248, 246);
+}
+
+.text-font
+{
+    font-weight:bolder;
+}
+
